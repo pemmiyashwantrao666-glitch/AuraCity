@@ -2,6 +2,7 @@
   "name": "auracity",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://pemmiyashwantrao666-glitch.github.io/AuraCity/",
   "type": "module",
   "scripts": {
     "dev": "vite",
